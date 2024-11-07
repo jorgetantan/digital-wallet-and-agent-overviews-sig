@@ -1,0 +1,26 @@
+{
+  "capability": [
+    "issuer",
+    "holder",
+    "verifier"
+  ],
+  "type": "cloud",
+  "name": "tan tan",
+  "logo": "https://www.dropbox.com/scl/fi/ib5oplg5k5qbwgnjd9b0a/logo_tantan.png?rlkey=hsiavp9e985syqm2jnzvqvaw2&dl=0",
+  "company": "tan tan",
+  "companyUrl": "https://tantan.solutions",
+  "urlWebsite": "https://tantan.solutions",
+  "urlAppStore": "https://apps.apple.com/us/app/tan-tan/id1441150689",
+  "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=client.tantan.solutions&pcampaignid=web_share",
+  "openSource": false,
+  "portability": true,
+  "credentialProfiles": [],
+  "credentialFormats": [],
+  "issuanceProtocols": [],
+  "keyManagements": [],
+  "presentationProtocols": [],
+  "signingAlgorithms": [],
+  "statusManagements": [],
+  "trustManagements": [],
+  "$schema": "../../schemas/wallet.json"
+}
